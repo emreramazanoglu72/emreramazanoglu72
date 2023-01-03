@@ -10,9 +10,9 @@ I develop projects using
 I have worked as a Frontend Developer for 8+ years. If you need Frontend Developer for Freelance / Remote / Full-time jobs, you can contact me at emreramazanoglu@yahoo.com.
 
 * 🌍  I'm based in Istanbul\Turkey
-* 🖥️  See my portfolio at [SPFE.](https://emreramazanoglu.com.tr)
+* 🖥️  See my portfolio at [Detail.](https://emreramazanoglu.com.tr)
 * ✉️  You can contact me at [emreramazanoglu@yahoo.com](mailto:emreramazanoglu@yahoo.com)
-* 🚀  I'm currently working on [SPFE.](https://rocket.rs/)
+* 🚀  I'm currently working on [Magiclick](https://www.magiclick.com/)
 * 🧠  I'm learning Rust Rocket RS
 * 🤝  I'm open to collaborating on anyone.
 
